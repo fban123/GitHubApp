@@ -1,0 +1,8 @@
+"search.placeholder" = "Search Repositories";
+"sortContainer.title" = "Sort by:";
+"collectionView.background.message" = "Sorry, I could not find anything";
+"repositoryCell.issues" = "%d issues need help";
+"repositoryDetails.author.title" = "Author : ";
+"repositoryDetails.date.created" = "created : %@";
+"repositoryDetails.date.updated" = "updated : %@";
+"userDetails.repositories.title" = "%@ repositories : ";
